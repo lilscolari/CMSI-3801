@@ -1,2 +1,2 @@
 # CMSI-3801
-Computer Science class that requires students to complete assignments in 13 programming languages.
+A comparative study of the rationale, concepts, design, and features of several major programming languages, including bindings, scope, control flow, type systems, subroutines and coroutines, modules, objects, asynchronous programming, concurrency, and metaprogramming. Major attention is given to the following broad categories of languages: systems, enterprise, scripting, experimental, and esoteric. Compiler architecture and its relationship to formal models of computation.
